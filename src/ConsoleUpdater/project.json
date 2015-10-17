@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "title": "ConsoleUpdater",
+  "description": "Update previous output in DNX console applications",
+  "projectUrl": "https://github.com/fdesjardins/ConsoleUpdater",
+  "licenseUrl": "https://raw.githubusercontent.com/fdesjardins/ConsoleUpdater/master/license",
+  "authors": [
+    "Forrest Desjardins"
+  ],
+  "frameworks": {
+    "dnx451": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdesjardins/ConsoleUpdater"
+  },
+  "dependencies": {
+  }
+}

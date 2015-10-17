@@ -1,0 +1,23 @@
+{
+  "locked": false,
+  "version": 1,
+  "targets": {
+    "Asp.Net,Version=v5.0": {
+      "ConsoleUpdater/1.0.0": {
+        "type": "project"
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleUpdater/1.0.0": {
+      "type": "project",
+      "path": "../src/ConsoleUpdater/project.json"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "ConsoleUpdater >= 1.0.0"
+    ],
+    "Asp.Net,Version=v5.0": []
+  }
+}
