@@ -1,12 +1,8 @@
 # ConsoleUpdater
 
-> Update previous output in DNX console applications.
+> Update previous output in .NET console applications
 
-> DNX port of https://github.com/sindresorhus/log-update
-
-## Install
-
-`dnu install ConsoleUpdater`
+.NET port of https://github.com/sindresorhus/log-update
 
 ## Usage
 
