@@ -1,8 +1,6 @@
 # ConsoleUpdater
 
-> Update previous output in .NET console applications
-
-.NET port of https://github.com/sindresorhus/log-update
+Update previous output in .NET console applications
 
 ## Usage
 
@@ -49,6 +47,10 @@ public class Program
   }
 }
 ```
+
+## Credits
+
+This is a .NET port of https://github.com/sindresorhus/log-update
 
 ## License
 
